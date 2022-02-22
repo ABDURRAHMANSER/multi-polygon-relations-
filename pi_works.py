@@ -15,8 +15,8 @@ from fastkml import  kml  # imort library for read kml file data
 # In[37]:
 
 
-kml_buildingfile = 'C:/Users/samis/Downloads/buildings.kml'
-kml_districtsfile = 'C:/Users/samis/Downloads/districts.kml'
+kml_buildingfile = 'C:files-path/buildings.kml'
+kml_districtsfile = 'C:files-path/districts.kml'
 
 
 with open(kml_buildingfile, 'rb') as myfile:
